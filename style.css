@@ -1,0 +1,48 @@
+body {
+    background-color: #e0e1e6;
+}
+
+h1 {
+    color: #e3001b;
+    background-color: #fefefe;
+    border-radius: 40px;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 55px;
+}
+
+.sommaire {
+    text-align: center;
+    font-size: 19px;
+}
+
+.sommaire a{
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+
+
+.menu {
+    list-style: none;
+    font-size: 19px;
+    border: 1px solid black;
+    width: 20%;
+    margin-left: 1px;
+    margin-top: 95px;
+    
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menubis {
+   display: inline-block;
+    vertical-align: top;
+}
+
+.para {
+    display: inline-block;
+    width: 75%;
+}
